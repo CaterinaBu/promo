@@ -1,0 +1,74 @@
+.page
+{
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'PT Sans', sans-serif;
+}
+.header
+{
+    display: flex;
+    margin: 36px auto 26.8px 50px;
+    align-items: flex-end;
+}
+.header_menu
+{
+    display: flex;
+    gap: 25px;
+    font-size: 20px;
+    line-height: 26px;
+    padding: 0px;
+    margin-bottom: 24px;  
+}
+.footer
+{
+    margin: 0px 45px auto 50px;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+.footer_text
+{
+    width: 193px;
+    font-size: 20px;
+    line-height: 26px;
+    margin: 33px auto 39px 0px;
+}
+.header_logo
+{
+    margin-right: 530px;
+}
+.main_text
+{
+    background-color: #E5EEF1;
+    padding: 62px 171px 72px 50px;
+    margin: 0px;
+    width: 780px;
+    font-size: 24px;
+    line-height: 31px;
+}
+.content_title
+{
+    color: #D33158;
+    font-size: 150px;
+    line-height: 200px;
+    font-family: 'Playfair Display', serif;
+    margin: 2px auto 0px 50px;
+}
+.content_subtitle
+{
+    width: 425px;
+    font-size: 36px;
+    line-height: 48px;
+    font-style: regular;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    margin: 7.5px auto 0px 50px;
+}
+.content_first_screen
+{
+    display: flex;
+}
+.foto_first_screen
+{
+    margin: 44px auto -4px -16.5px;
+}
